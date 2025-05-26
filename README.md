@@ -55,10 +55,15 @@ atm-interface/ .
 🌟 Features:
 
 ✅ Secure login (with account number & pin).
+
 ✅ Deposit & withdraw money.
+
 ✅ Balance check.
+
 ✅ View last transactions.
+
 ✅ Delete oldest transactions.
+
 ✅ CORS support for frontend.
 
 
