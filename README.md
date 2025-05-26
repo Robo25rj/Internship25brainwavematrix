@@ -20,31 +20,46 @@ This project is a fully functional **ATM interface** with:
 ---
 
 ## 📂 Project Structure
-atm-interface/
-├── backend/
-│ ├── src/main/java/com/example/atm/
-│ │ ├── controller/
-│ │ ├── model/
-│ │ ├── repository/
-│ │ ├── service/
-│ │ └── AtmApplication.java
-│ ├── src/main/resources/
-│ │ ├── application.properties
-│ └── pom.xml
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+atm-interface/ .
+
+├── backend/.
+
+│ ├── src/main/java/com/example/atm/.
+
+│ │ ├── controller/.
+
+│ │ ├── model/.
+
+│ │ ├── repository/.
+
+│ │ ├── service/.
+
+│ │ └── AtmApplication.java.
+
+│ ├── src/main/resources/.
+
+│ │ ├── application.properties.
+
+│ └── pom.xml.
+
+├── frontend/.
+
+│ ├── index.html.
+
+│ ├── style.css.
+
+│ └── script.js.
+
 └── README.md
 
 🌟 Features:
 
-✅ Secure login (with account number & pin)
-✅ Deposit & withdraw money
-✅ Balance check
-✅ View last transactions
-✅ Delete oldest transactions
-✅ CORS support for frontend
+✅ Secure login (with account number & pin).
+✅ Deposit & withdraw money.
+✅ Balance check.
+✅ View last transactions.
+✅ Delete oldest transactions.
+✅ CORS support for frontend.
 
 
 
