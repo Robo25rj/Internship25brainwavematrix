@@ -37,7 +37,8 @@ atm-interface/
 │ └── script.js
 └── README.md
 
-🌟 Features
+🌟 Features:
+
 ✅ Secure login (with account number & pin)
 ✅ Deposit & withdraw money
 ✅ Balance check
